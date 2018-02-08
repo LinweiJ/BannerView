@@ -173,7 +173,7 @@ For a working implementation of this project see the demo/  folder.
 ## License
 
 ```
-Copyright 2017 LinWeiJia
+Copyright 2018 LinWeiJia
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
