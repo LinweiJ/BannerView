@@ -52,7 +52,7 @@ dependencies {
 - xml
 
 ```
-<com.lvchehui.www.demo_best_adapter.banner.BannerView
+<com.lwj.widget.bannerview.BannerView
 		android:id="@+id/BannerView"
 		android:layout_width="match_parent"
 		android:layout_height="493dp"
@@ -66,7 +66,9 @@ dependencies {
          android:layout_gravity="bottom"
          android:text="提示"
      />
-</com.lvchehui.www.demo_best_adapter.banner.BannerView>
+</com.lwj.widget.bannerview.BannerView>
+
+
 ```
 
 - java
